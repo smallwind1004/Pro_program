@@ -1,6 +1,7 @@
 
 //*1~42,no repeat.//
-//*small to big//
+//*small to big.//
+//*mach number.//
 import java.util.*;
 
 /**
